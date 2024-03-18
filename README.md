@@ -33,7 +33,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [terrafor](https://developer.hashicorp.com/terraform?product_intent=terraform) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Terraform](https://developer.hashicorp.com/terraform?product_intent=terraform) installed.
 
 ## :checkered_flag: Starting ##
 
