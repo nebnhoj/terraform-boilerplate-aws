@@ -39,7 +39,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/terraform-boilerplate-aws
+$ git clone https://github.com/nebnhoj/terraform-boilerplate-aws
 
 # Access
 $ cd terraform-boilerplate-aws
