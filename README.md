@@ -18,7 +18,7 @@
 
 ## :dart: About ##
 
-Describe your project
+This Terraform boilerplate project provides a structured foundation for managing infrastructure as code using Terraform. 
 
 ## :sparkles: Features ##
 
